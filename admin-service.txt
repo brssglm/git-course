@@ -1,2 +1,7 @@
 admin privileges
 accounts
+
+adding new service
+ai features
+esim features
+bla bla
